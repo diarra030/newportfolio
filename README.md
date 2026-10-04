@@ -7,13 +7,13 @@
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/votre-username/portfolio-aboubacar-diarra.git
+git clone https://github.com/diarra030/newportfolio.git
 ```
 
 ### 2. Accéder au dossier du projet
 
 ```bash
-cd portfolio-aboubacar-diarra
+cd newportfolio
 ```
 
 ### 3. Installer les dépendances
